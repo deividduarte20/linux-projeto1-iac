@@ -6,4 +6,4 @@
 `chmod +x dio.sh` ou `chmod dir.sh`
 
 ### Execute
-`./dio.sh` ou `dir.sh`
+`./dio.sh` ou `./dir.sh`
