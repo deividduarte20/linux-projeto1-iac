@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DIRETORIOS=("publico" "ven" "sec" "adm")
-GRP=("GRP"_"ADM" "GRP_VEN" "GRP_SEC")
+GRP=("GRP_ADM" "GRP_VEN" "GRP_SEC")
 USRS=("carlos" "maria" "joao" "debora" "sebastiana" "roberto" "josefina" "rogerio")
 
 
